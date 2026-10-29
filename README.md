@@ -6,7 +6,7 @@
 
 大学生向けビジネスコンテスト **CAREER ROOKIES GP 2026** の本選準決勝に向けて、最初に考えた案「**転勤コンシェルジュ**」のプレゼン用 MVP です。この案は発表しておらず、チームの提案は最終的に「FRONTIER BASE」になりました(LP: [careerrookies2026-frontier-base-lp](https://github.com/koubeyapurin/careerrookies2026-frontier-base-lp))。
 
-- 森平(koubeyapurin)が1人で作りました。仕様書 [SPEC.md](SPEC.md) を書き、AI(Codex など)に実装させ、テスト(Vitest・Playwright)・CI(GitHub Actions)・GitHub Pages での公開まで整えました
+- 森平(koubeyapurin)が1人で作りました。仕様書 [SPEC.md](SPEC.md) は森平が書き、それをもとに AI(Codex など)に実装させ、テスト(Vitest・Playwright)・CI(GitHub Actions)・GitHub Pages での公開まで整えました
 - 大会の公式ページ: https://gp.careerrookies.com/
 
 ## 公開サイト
